@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mobile Center Test</string>
+    <string name="send_event_action">Send event</string>
+    <string name="test_crash_event">Test crash</string>
 </resources>
